@@ -21,7 +21,6 @@ public class mapExample {
 	static String hrefurl;
 	
 	public static void main(String[] args) throws IOException {
-		// TODO Auto-generated method stub
 
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\vishw\\Desktop\\chromedriver.exe");
 		driver = new ChromeDriver();
